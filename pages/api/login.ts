@@ -15,3 +15,5 @@ export default (
 	}
 	return res.status(405).json({erro : 'Metodo informado não é válido!'});
 }
+
+//testando commit
